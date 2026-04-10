@@ -2,4 +2,4 @@ def greet(name):
     return f"Hello there, {name}"
 
 
-print(greet("Student C"))
+print(greet("Student DEF"))
