@@ -1,2 +1,5 @@
-print("Hello from student A for the git workshop!")
+def greet(name):
+    return f"Hello there, {name}"
 
+
+print(greet("Student A"))
