@@ -1,2 +1,2 @@
-print("Hello from Student C")
+print("Hello from student B")
 
