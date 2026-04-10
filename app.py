@@ -1,2 +1,2 @@
-print("Hello from student B")
+print("Hello from student A for the git workshop!")
 
